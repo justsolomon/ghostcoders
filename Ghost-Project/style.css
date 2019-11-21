@@ -1,6 +1,6 @@
 body {
     background-position: center center;
-    background-repeat: no-repeat;
+    /* background-repeat: repeat-y; */
     background-image: url('ghosti.jpg');
     background-size: cover;
     text-align: center;
@@ -18,7 +18,7 @@ h1 {
 .nc {
     font-family: 'Calibri Light', sans-serif;
     font-size: 135px;
-    letter-spacing: 10px;
+    letter-spacing: 15px;
     font-weight: 100;
     text-align: center;
     color: #360303;
@@ -31,7 +31,7 @@ section {
 
 div {
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 900;
 }
 
 .gen {
