@@ -1,0 +1,38 @@
+body {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url('ghosti.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	
+	
+}
+
+h1 {
+  padding-left: 40px; 
+  font-size: 50px;
+  text-align: center;
+  align-content: center; 
+  color:rgb(177, 20, 72);
+/* padding-bottom: 4px; */
+}
+  
+.test {
+	display:inline-flex;
+	padding: 100px 300px 0px 50px;
+} 
+
+.nc {
+  font-size: 150px;
+  text-align: center;
+  /*align-content: center; */
+  color:rgb(0, 0, 0);
+}
+
+.gen {
+  color:rgb(0, 128, 0);
+}
+
+.blue {
+	color: rgb(0,0,255);
+}
